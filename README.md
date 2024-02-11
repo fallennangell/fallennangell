@@ -15,8 +15,7 @@ Penetration Tester with a proven track record in conducting comprehensive securi
 * 🤝  I'm open to collaborating on Cybersecurity Projects
 * ⚡  I'm secretly Heisenberg... but don't tell anyone
 
-<a href="https://www.github.com/fallennangell" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/fallennangell?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.github.com/fallennangell" target="_blank" rel="noreferrer"><img>
 
 ### Skills
 
