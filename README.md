@@ -10,8 +10,8 @@ Penetration Tester with a proven track record in conducting comprehensive securi
 
 * ✉️  You can contact me at [its.whitehart@gmail.com](mailto:its.whitehart@gmail.com)
 * 🧠  I'm learning Networking and Scripting.
-* 🤝  I'm open to collaborating on Cybersecurity Projects
-* ⚡  I'm secretly Heisenberg... but don't tell anyone
+* 🤝  I'm open to collaborating on Cybersecurity Projects.
+* ⚡  I'm secretly Heisenberg... but don't tell anyone.
 
 <a href="https://www.github.com/fallennangell" target="_blank" rel="noreferrer"><img>
 ### Skills
