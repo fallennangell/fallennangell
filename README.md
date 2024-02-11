@@ -7,6 +7,7 @@ Penetration Tester with a proven track record in conducting comprehensive securi
 <img align="right" alt="Coding" width="400" src="https://w0.peakpx.com/wallpaper/299/519/HD-wallpaper-fallen-angel-wings-fantasy-luminos-girl-angel-ydiya-arrow-art-black-fallen.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fallennangell&label=Profile%20views&color=0e75b6&style=flat" alt="fallennangell" /></p>
 
+* 🌍  I'm based in Anonymous
 * ✉️  You can contact me at [its.whitehart@gmail.com](mailto:its.whitehart@gmail.com)
 * 🧠  I'm learning Networking and Scripting.
 * 🤝  I'm open to collaborating on Cybersecurity Projects.
