@@ -3,7 +3,7 @@
 
   ------------------
 
-Penetration Tester with a proven track record in conducting comprehensive security assessments and vulnerability analyses. Proficient in leveraging a wide range of penetration testing methodologies, tools, and techniques to identify, exploit, and remediate security weaknesses in computer systems, networks, and applications. Skilled in documentation and report generation, providing actionable recommendations to enhance the security posture of organizations. Committed to continuous learning and professional development in the ever-evolving field of cybersecurity. Seeking a challenging role where I can apply my expertise to fortify digital assets and mitigate emerging cyber threats effectively.</h3>
+Penetration Tester with a proven track record in conducting comprehensive security assessments and vulnerability analyses. Proficient in leveraging a wide range of penetration testing methodologies, tools, and techniques to identify, exploit, and remediate security weaknesses in computer systems, networks, and applications. Skilled in documentation and report generation, providing actionable recommendations to enhance the security posture of organizations. Committed to continuous learning and professional development in the ever-evolving field of cybersecurity.</h3>
 <img align="right" alt="Coding" width="400" src="https://w0.peakpx.com/wallpaper/299/519/HD-wallpaper-fallen-angel-wings-fantasy-luminos-girl-angel-ydiya-arrow-art-black-fallen.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fallennangell&label=Profile%20views&color=0e75b6&style=flat" alt="fallennangell" /></p>
 
